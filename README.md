@@ -1,5 +1,5 @@
 
-<img src="https://github.com/avvinashjha/avvinashjha/blob/main/banner.png" />
+<img height="100px" style="object-fit: cover;" src="https://raw.githubusercontent.com/Avvinashjha/Avvinashjha/refs/heads/main/4762568.jpg" />
 
 ###  👋 Hi There, I am Avinash jha
 ### Reach Me
