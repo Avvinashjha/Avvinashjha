@@ -14,12 +14,12 @@
   </a>
 </p>
 
----
+
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=avvinashjha.avvinashjha)
 [![GitHub followers](https://img.shields.io/github/followers/avvinashjha?style=social)](https://github.com/avvinashjha?tab=followers)
 
----
+
 
 ## 🧠 About Me
 
@@ -29,7 +29,6 @@
 - 📈 Passionate about cloud, AI/ML, system architecture & developer tools
 - 🧪 Constantly exploring new tech stacks and engineering practices
 
----
 
 ## 🏆 Tech Arsenal
 
@@ -49,7 +48,7 @@
 `Data Structures` `Algorithms` `Dynamic Programming`  
 `Scalable System Design` `Microservices` `Clean Architecture`
 
----
+
 
 ## 🚀 Projects Worth Exploring
 
@@ -59,7 +58,7 @@
 - 📋 [Jobster – Job Manager](https://jobster-easy.netlify.app/landing)  
   Personal job application tracker built with Local Storage & React.
 
----
+
 
 ## 🎓 Certifications
 
@@ -67,7 +66,7 @@
 - 🏅 JavaScript – *HackerRank*
 - 🏅 Responsive Web Design – *freeCodeCamp*
 
----
+
 
 ## 📊 GitHub Highlights
 
@@ -77,7 +76,7 @@
 
 ![Trophy](https://github-profile-trophy.vercel.app/api?username=avvinashjha&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
----
+
 
 ## 💬 Let's Connect
 
