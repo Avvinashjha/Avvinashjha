@@ -2,8 +2,9 @@
 
 <h1 align="center">👋 Hi, I'm Avinash Jha</h1>
 <p align="center">
-  <strong>Web Application Developer | Backend Specialist | Frontend Enthusiast | Tech Explorer</strong>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=79FF97&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;Passionate+about+system+design+%26+AI;Currently+at+Media.net;Always+learning+%26+exploring+new+tech" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/avvinashjha/">
@@ -21,7 +22,7 @@
 
 
 
-## 🧠 About Me
+## About Me
 
 - 👨‍💻 3+ years of experience as a **Backend Developer** and **Fullstack Engineer**
 - 🔭 Currently building scalable web apps at **Media.net**
@@ -30,37 +31,23 @@
 - 🧪 Constantly exploring new tech stacks and engineering practices
 
 
-## 🏆 Tech Arsenal
+## Tech Stack
 
-### 🧱 Backend Development
-`Java` `Spring Boot` `Flask` `Node.js` `Express.js`  
-`MySQL` `Redis` `Kafka` `Nginx` `REST APIs`
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,mysql,redis,kafka,nginx,graphql,docker,git,aws,postman" />
+  </a>
+</p>
 
-### 🎨 Frontend Engineering
-`HTML` `CSS` `JavaScript` `React.js` `Next.js`  
-`Typescript` `D3.js` `Jest` `GraphQL` `WebSockets`
+---
 
-### 📦 Tools & Platforms
-`GitLab CI/CD` `Docker` `Postman` `Figma` `VSCode`  
-`AWS` (learning) `TensorFlow` (learning)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,js,ts,figma,vscode&perline=12" />
+  </a>
+</p>
 
-### 🔁 Dev Concepts
-`Data Structures` `Algorithms` `Dynamic Programming`  
-`Scalable System Design` `Microservices` `Clean Architecture`
-
-
-
-## 🚀 Projects Worth Exploring
-
-- 🔍 [Search Github User](https://pro-github-search.netlify.app/)  
-  REST-based GitHub explorer with dynamic charts and responsive UI.
-
-- 📋 [Jobster – Job Manager](https://jobster-easy.netlify.app/landing)  
-  Personal job application tracker built with Local Storage & React.
-
-
-
-## 🎓 Certifications
+## Certifications
 
 - 🏅 React.js – *HackerRank*
 - 🏅 JavaScript – *HackerRank*
@@ -68,7 +55,7 @@
 
 
 
-## 📊 GitHub Highlights
+## GitHub Highlights
 
 ![Avinash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=avvinashjha&hide=issues&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
@@ -78,7 +65,7 @@
 
 
 
-## 💬 Let's Connect
+## Let's Connect
 
 📩 **[avvinashjha@gmail.com](mailto:avvinashjha@gmail.com)**  
 🔗 **[LinkedIn](https://www.linkedin.com/in/avvinashjha/)**  
